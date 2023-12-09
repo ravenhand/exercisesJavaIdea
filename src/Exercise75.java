@@ -32,5 +32,5 @@ public class Exercise75 {
         System.out.println((String.format("%.0f", dividePassNumber) + "%"));
         System.out.println((String.format("%.0f", divideFailedNumber) + "%"));
         System.out.println((String.format("%.0f", divideSkipNumber) + "%"));
-    }E
+    }
 }
